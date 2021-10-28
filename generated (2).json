@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "properties": {
+        "name": "東亞藥師藥局",
+        "phone": "(04)27022702",
+        "address": "臺中市西屯區河南路２段３５０號１樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.647179,
+          24.173867
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "逢甲何藥局",
+        "phone": "(04)27088495",
+        "address": "臺中市西屯區青海路二段二八七號一、二樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.641852,
+          24.172789
+        ]
+      }
+    }
+  ]
+}
