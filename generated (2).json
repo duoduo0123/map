@@ -6,8 +6,7 @@
             "properties": {
                 "name": "榮星藥局",
                 "phone": "(02)27124696",
-                "address": "臺北市松山區南京東路４段１３３巷５弄１號",
-                "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+                "address": "臺北市松山區南京東路４段１３３巷５弄１號"
             },
             "geometry": {
                 "type": "Point",
@@ -22,8 +21,7 @@
             "properties": {
                 "name": "安世藥局",
                 "phone": "(02)27133405",
-                "address": "臺北市松山區南京東路４段１３３巷５弄９號",
-                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+                "address": "臺北市松山區南京東路４段１３３巷５弄９號"
             },
             "geometry": {
                 "type": "Point",
@@ -38,8 +36,7 @@
             "properties": {
                 "name": "明一藥局",
                 "phone": "(02)27691654",
-                "address": "臺北市松山區南京東路５段５９巷２８弄２５號１樓",
-                "service_periods": "NNNNNNYNNNNNNYNNNNNYY"
+                "address": "臺北市松山區南京東路５段５９巷２８弄２５號１樓"
             },
             "geometry": {
                 "type": "Point",
