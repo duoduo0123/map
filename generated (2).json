@@ -45,6 +45,306 @@
                     24.178244606369454
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Esquina 轉角酒吧",
+                "phone": "+886225211959",
+                "address": "10491台北市中山區長安東路一段53巷1-6號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52688377660496,
+                    25.050809757136474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Primrose-中正區酒吧bar bistro(Bar春花)",
+                "phone": "+886965301664",
+                "address": "100台北市中正區新生南路一段56巷8號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53169029505058,
+                    25.043033828361807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROOM by Le Kief",
+                "phone": "+886227116007",
+                "address": "106台北市大安區復興南路一段107巷5弄10號1樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54516571283568,
+                    25.046610816847686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bar Weekendf",
+                "phone": "+886227018196",
+                "address": "106台北市大安區信義路三段147巷18號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54241913086675,
+                    25.038134740045606
+                ]
+            }
+        },
+         {
+            "type": "Feature",
+            "properties": {
+                "name": "RayDarts 飛鏢運動酒吧",
+                "phone": "+886223114339",
+                "address": "108台北市萬華區昆明街92-2號5樓"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50662773458406,
+                    25.0460664992441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "baroom 小酒館",
+                "phone": "+886978808773",
+                "address": "741台南市善化區民權路37號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30394768700552,
+                    23.133109643553947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "善化酒吧 Bar Stir 浪琴記",
+                "phone": "+88665831787",
+                "address": "741台南市善化區龍目井路427號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30528289913603,
+                    23.112011222164632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SLASHIE BAR斜槓吧",
+                "phone": "+88665836096",
+                "address": "744台南市新市區西拉雅大道160號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30831747215996,
+                    23.110224960128807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "wiracle",
+                "phone": "+886423160416",
+                "address": "40751台中市西屯區寧夏東二街51巷11-1號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.66204810756356,
+                    24.170042206206315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "甲霸的秘密生活",
+                "phone": "無",
+                "address": "407台中市西屯區文華路22號5號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.64663575151795,
+                    24.176965024780422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dream Bar 旗艦店",
+                "phone": "+886424520153",
+                "address": "407台中市西屯區河南路二段301巷12號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.64727948166693,
+                    24.173265200005638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Yes夜市酒吧",
+                "phone": "+886424524621",
+                "address": "407台中市西屯區西屯路二段上石北二巷17號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.64733795024813,
+                    24.172750701059062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "True Color 本色",
+                "phone": "+886427060909",
+                "address": "407台中市西屯區寶慶街50巷20號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.64780364675138,
+                    24.172110496616508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "老爺飛鏢酒吧",
+                "phone": "+886426525162",
+                "address": "407台中市西屯區寶慶街30巷22號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.64808434052493,
+                    24.171650711450248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Diggin.tc",
+                "phone": "+886424520097",
+                "address": "407台中市西屯區寶慶街18巷30號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.64849262237853,
+                    24.171179284416947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Miyoshi Bar 運動酒吧",
+                "phone": "+886424523853",
+                "address": "407台中市西屯區No296-4號西屯路二段"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.64215441795521,
+                    24.17832022863876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mr.bar 風味炭燒",
+                "phone": "+886424528620",
+                "address": "號, No. 269-39西屯路二段西屯區台中市407"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.64455767717804,
+                    24.17446383610625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Addict 癮君子-北屯酒吧",
+                "phone": "+886422916721",
+                "address": "40462台中市北區中清路一段580號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.67318663951895,
+                    24.16810929811511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "魅力四射飛鏢音樂酒吧鳳凰旗艦35店",
+                "phone": "無",
+                "address": "404台中市北區忠明路502-1號號b1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.672843316772845,
+                    24.16388062486485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "隨便吧 音樂餐廳",
+                "phone": "+886422250928",
+                "address": "404台中市北區一中街148-16號"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.687120843934955,
+                    24.153587827048053
+                ]
+            }
         }
       ]
      }
